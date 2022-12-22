@@ -1,5 +1,9 @@
-I'm Parsa<br>
-I am a Full-Stack developer and WordPress developer who has sufficient mastery in the following topics:
+<h1> Parsa Mirzaie </h1>
+
+<h2> PHP Developer </h2>
+
+<h3> Personal Info </h3>
+I am a PHP & WordPress developer who has sufficient mastery in the following topics:
 
 1- PHP<br>
 2- JavaScript<br>
@@ -8,5 +12,7 @@ I am a Full-Stack developer and WordPress developer who has sufficient mastery i
 5- HTML<br>
 6- CSS<br>
 7- WordPress<br>
-<br>
-I am currently developing and learning on back-end topics and the database.
+I am currently focus on developing and learning back-end topics and the database.
+
+<h3> Contact me </h3>
+<h4>Email : <a href='mailto:Mirzaie_parsa@protonmail.ch'>Mirzaie_parsa@protonmail.ch</a></h4>

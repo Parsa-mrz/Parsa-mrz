@@ -12,7 +12,7 @@ I am a PHP & WordPress developer who has sufficient mastery in the following top
 5- HTML<br>
 6- CSS<br>
 7- WordPress<br>
-I am currently focus on developing and learning back-end topics and the database.
+I am currently focus on developing and learning back-end topics and database.
 
 <h3> Contact me </h3>
 <h4>Email : <a href='mailto:Mirzaie_parsa@protonmail.ch'>Mirzaie_parsa@protonmail.ch</a></h4>

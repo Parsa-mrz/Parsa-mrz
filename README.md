@@ -3,7 +3,7 @@
 <h2> PHP Developer </h2>
 
 # 💫 About Me:
-Personal Info<br>I am a Laravel & WordPress developer <br><br>Contact me<br>Email : Mirzaie_parsa@protonmail.ch , Mirzaie790@gmail.com
+Personal Info<br>I am a Laravel & WordPress developer <br><br>Contact me<br>Email : Mirzaie_parsa@protonmail.ch
 
 # 💻 Tech Stack:
 ![WordPress](https://camo.githubusercontent.com/04b5e0e940eed511e8e86619eeb7cdb264f17292074c06c60127e1796436d57b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726450726573732d2532333131374143392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d576f72645072657373266c6f676f436f6c6f723d7768697465)

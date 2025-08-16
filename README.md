@@ -35,7 +35,6 @@ Welcome to my GitHub profile! I'm a passionate PHP developer with expertise in c
 
 ## Wordpress Plugins:
 - [WPCLI](https://github.com/Parsa-mrz/WPCLI)
-- [Digi Tab](https://github.com/Parsa-mrz/Digi-Tab)
 - [Course List Woocommerce](https://github.com/Parsa-mrz/course-list-woocommerce)
 - [Wishlist](https://github.com/Parsa-mrz/wishlist-wordpress)
 - [Woocommerce Global Discount](https://github.com/Parsa-mrz/Woocommerce_global_discount)

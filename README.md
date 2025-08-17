@@ -3,13 +3,21 @@
 <h2> PHP Developer </h2>
 
 # 💫 About Me:
-Welcome to my GitHub profile! I'm a passionate PHP developer with expertise in crafting WordPress plugins, themes, and Laravel applications. I love building solutions that solve real-world problems and enhance user experiences. Below, you'll find a collection of my projects
- <br><br>Contact me<br>Email : Mirzaie_parsa@protonmail.ch
- <br>Website: https://parsamirzaie.com
+Welcome to my GitHub! I'm a PHP developer who loves building things for the web, from WordPress plugins and themes to robust Laravel applications. My goal is to create clean, efficient code that solves problems and improves the user experience.
+
+Feel free to explore my repositories below.
+
+---
+
+**Get in touch!**
+
+* [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=email&logoColor=white)](mailto:Mirzaie_parsa@protonmail.ch) : mirzaie_parsa@protonmail.ch
+* [![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://parsamirzaie.com) : https://parsamirzaie.com
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parsa-mirzaie-85249a221/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNjnxwXKDRfq5oM%2FlvKCfVA%3D%3D) : https://www.linkedin.com/in/parsa-mirzaie-85249a221
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parsa-mirzaie-85249a221/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNjnxwXKDRfq5oM%2FlvKCfVA%3D%3D) 
-[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://parsamirzaie.com)
+
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,12 +42,10 @@ Welcome to my GitHub profile! I'm a passionate PHP developer with expertise in c
 # Projects
 
 ## Wordpress Plugins:
+- [Customer-Verification-System-for-WooCommerce](https://github.com/Parsa-mrz/Customer-Verification-System-for-WooCommerce)
 - [WPCLI](https://github.com/Parsa-mrz/WPCLI)
-- [Course List Woocommerce](https://github.com/Parsa-mrz/course-list-woocommerce)
-- [Wishlist](https://github.com/Parsa-mrz/wishlist-wordpress)
-- [Woocommerce Global Discount](https://github.com/Parsa-mrz/Woocommerce_global_discount)
-- [Woocommerce Order List](https://github.com/Parsa-mrz/WooCommerce-order-list)
-- [Woocommerce Stock Text Changer](https://github.com/Parsa-mrz/Wocommerce-InStock-OutOfStock-Text-Change)
+- [panel-pro](https://github.com/Parsa-mrz/panel-pro)
+- [Vaslino](https://github.com/Parsa-mrz/Vaslino)
 
 ## Wordpress Themes:
 - [Custom Theme](https://github.com/Parsa-mrz/WordPress-Custom-Theme)
@@ -50,4 +56,7 @@ Welcome to my GitHub profile! I'm a passionate PHP developer with expertise in c
 - [Keuh Classification](https://github.com/Parsa-mrz/keuh-classification)
 - [To-Do List](https://github.com/Parsa-mrz/ToDo_list-php)
 - [React+Laravel](https://github.com/Parsa-mrz/Todo_laravel)
-  
+- [social-broadcaster](https://github.com/Parsa-mrz/social-broadcaster)
+- [Todo_laravel](https://github.com/Parsa-mrz/Todo_laravel)
+- [filament-dashboard](https://github.com/Parsa-mrz/filament-dashboard)
+- 

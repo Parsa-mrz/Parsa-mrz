@@ -43,6 +43,7 @@ Feel free to explore my repositories below.
 
 ## Wordpress Plugins:
 - [Customer-Verification-System-for-WooCommerce](https://github.com/Parsa-mrz/Customer-Verification-System-for-WooCommerce)
+- [Sheetsync-For-Woocommerce ](https://github.com/Parsa-mrz/Sheetsync-For-Woocommerce)
 - [WPCLI](https://github.com/Parsa-mrz/WPCLI)
 - [panel-pro](https://github.com/Parsa-mrz/panel-pro)
 - [Vaslino](https://github.com/Parsa-mrz/Vaslino)
